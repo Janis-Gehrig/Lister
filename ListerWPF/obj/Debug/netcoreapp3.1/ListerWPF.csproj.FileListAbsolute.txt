@@ -1,0 +1,17 @@
+C:\Users\jge\source\repos\ListerWPF\obj\Debug\netcoreapp3.1\ListerWPF.csprojAssemblyReference.cache
+C:\Users\jge\source\repos\ListerWPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\jge\source\repos\ListerWPF\obj\Debug\netcoreapp3.1\ListerWPF_MarkupCompile.cache
+C:\Users\jge\source\repos\ListerWPF\bin\Debug\netcoreapp3.1\ListerWPF.exe
+C:\Users\jge\source\repos\ListerWPF\bin\Debug\netcoreapp3.1\ListerWPF.deps.json
+C:\Users\jge\source\repos\ListerWPF\bin\Debug\netcoreapp3.1\ListerWPF.runtimeconfig.json
+C:\Users\jge\source\repos\ListerWPF\bin\Debug\netcoreapp3.1\ListerWPF.runtimeconfig.dev.json
+C:\Users\jge\source\repos\ListerWPF\bin\Debug\netcoreapp3.1\ListerWPF.dll
+C:\Users\jge\source\repos\ListerWPF\bin\Debug\netcoreapp3.1\ListerWPF.pdb
+C:\Users\jge\source\repos\ListerWPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\jge\source\repos\ListerWPF\obj\Debug\netcoreapp3.1\ListerWPF_MarkupCompile.lref
+C:\Users\jge\source\repos\ListerWPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\jge\source\repos\ListerWPF\obj\Debug\netcoreapp3.1\ListerWPF.g.resources
+C:\Users\jge\source\repos\ListerWPF\obj\Debug\netcoreapp3.1\ListerWPF.AssemblyInfoInputs.cache
+C:\Users\jge\source\repos\ListerWPF\obj\Debug\netcoreapp3.1\ListerWPF.AssemblyInfo.cs
+C:\Users\jge\source\repos\ListerWPF\obj\Debug\netcoreapp3.1\ListerWPF.dll
+C:\Users\jge\source\repos\ListerWPF\obj\Debug\netcoreapp3.1\ListerWPF.pdb
